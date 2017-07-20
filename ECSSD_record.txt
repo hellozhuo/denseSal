@@ -1,0 +1,8 @@
+Total time: 0.3972
+SLIC: 0.1118
+Ranking: 0.0390
+Optimization: 0.2464
+Total time: 0.3936
+SLIC: 0.1105
+Ranking: 0.0381
+Optimization: 0.2451
